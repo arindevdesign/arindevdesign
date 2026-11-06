@@ -84,4 +84,4 @@ Hi there! I'm Arin, UI/UX Designer with more than 5 years of experience now merg
   
 </div>
 
-![snake gif](https://github.com/arindevdesign/arindevdesign/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/arindevdesign/arindevdesign/blob/output/github-contribution-grid-snake2.svg)
