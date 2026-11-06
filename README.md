@@ -76,4 +76,11 @@ Hi there! I'm Arin, UI/UX Designer with more than 5 years of experience now merg
 <br/>
 <br/>
 
+<hr>
+
+<div> 
+  <a href = "mailto:akatechdesign@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/arin-kuramoto-238946208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
